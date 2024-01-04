@@ -2,7 +2,7 @@
 
 ## I'm android developer
 
-- 🔭 I’m currently working on SmartList project
+- 🔭 I’m currently working on MyNotes project
 - 🌱 I’m currently learning Dart and Flutter technology
 - 📫 How to reach me: arifdjanovsarvar@gmail.com or 1810017sa@gmail.com
 
